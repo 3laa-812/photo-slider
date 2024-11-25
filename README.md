@@ -10,8 +10,8 @@ The slider is lightweight and easy to integrate into any web project.
 <h4>Customizable: Easily adjust settings like transition speed, autoplay duration, and navigation style.</h4>
 <h4>Smooth Transitions: Adds a professional touch with CSS-based animation effects.</h4>
 
-<h5>Navigation Controls:
-Previous/Next buttons for manual image navigation.
-Dots/Indicators to jump directly to specific slides.
-Optional autoplay for automatic transitions.
-Lightweight: Built with pure JavaScript, no dependencies required.</h5>
+<h4>Navigation Controls:</h4>
+
+<h5>Previous/Next buttons for manual image navigation.</h5>
+<h5>Dots/Indicators to jump directly to specific slides.</h5>
+<h5>Lightweight: Built with pure JavaScript, no dependencies required.</h5>
